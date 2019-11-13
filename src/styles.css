@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#editor {
+  height: 500px;
+  width: 100%;
+  padding: 10px;
+}
